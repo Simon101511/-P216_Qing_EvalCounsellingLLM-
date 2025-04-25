@@ -18,13 +18,21 @@ Key Features:
 
 P216_Qing_EvalCounsellingLLM/
 ├── code/              # Core scripts for data processing and model interaction
+
 ├── data/              # Anonymized raw and processed counselling session datasets
+
 ├── notebooks/         # Jupyter Notebooks for exploration and prototyping
+
 ├── models/            # Pretrained LLMs and fine-tuned versions
+
 ├── results/           # Evaluation outputs and visualizations
+
 ├── reports/           # Project proposal, final report, and presentations
+
 ├── ethics/            # IRB documents, consent forms, anonymization scripts
+
 ├── references/        # Academic references and reading materials
+
 └── README.md          # Project overview and usage instructions
 
 🛠️ How to Run
